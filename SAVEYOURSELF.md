@@ -6,12 +6,8 @@
 | Università degli Studi della BASILICATA    | http://portale.unibas.it/site/home.html  | /                                               | //TODO what the fuck is wrong with them  
 | Università degli Studi di BERGAMO          | https://www.unibg.it/  | [Ingegneria informatica][unibg]                                   | /  
 | Università degli Studi di BOLOGNA          | https://www.unibo.it/  | [Ingegneria informatica][unibo_inginf]                            | [Informatica][unibo_inf]
-
-
-
-
-
-
+| Università degli Studi di BRESCIA          | https://www.unibs.it/  | [Ingegneria informatica][unibs]                                   | /  
+| Università degli Studi di CAGLIARI         | https://www.unica.it/unica/  | [Ingegneria Elettrica, Elettronica e Informatica][unica_inginf]                                   | [Informatica][unica_inf]  
 
 
 
@@ -23,6 +19,7 @@
 [unibg]: https://lt-ii.unibg.it/it/il-corso
 [unibo_inginf]: https://corsi.unibo.it/laurea/IngegneriaInformatica/il-corso
 [unibo_inf]:https://corsi.unibo.it/laurea/informatica/il-corso
-
-
+[unibs]: https://www.unibs.it/ugov/degree/4684
+[unica_inginf]: http://corsi.unica.it/ingegneriaelettricaeelettronica/didattica/corsi/
+[unica_inf]: http://corsi.unica.it/informatica/didattica/laurea-triennale-in-informatica/
 
