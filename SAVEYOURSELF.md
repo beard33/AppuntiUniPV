@@ -11,9 +11,9 @@
 | Università della CALABRIA                  | https://www.unical.it/portale/  | [Ingegneria informatica][unical_inginf]                  | [Informatica][unical_inf]
 | Università degli Studi di CAMERINO         | https://www.unicam.it/ | /                                                                 | [Informatica][unicam]          
 | Università degli Studi di CASSINO e del LAZIO MERIDIONALE | https://www.unicas.it/ | [Ingegneria Informatica e delle Telecomunicazioni][unicas] | /
-
-
-
+| Università degli Studi di CATANIA          | https://www.unict.it/  | [Ingegneria informatica][unict_inginf]                            | [Informatica][unict_inf]
+| Università degli Studi "Magna Graecia" di CATANZARO | https://web.unicz.it/it/ | [Ingegneria Informatica e Biomedica][unicz]            | /               
+| Università degli Studi "G. d'Annunzio" CHIETI-PESCARA | https://www.unich.it/ | /                                                       | [Economia e Informatica per l'Impresa][unich]
 
 
 [uniba]: https://www.uniba.it/ricerca/dipartimenti/informatica/didattica/corsi-di-laurea/informatica-270/laurea-triennale-in-informatica-d.m.-270-1
@@ -28,4 +28,7 @@
 [unical_inf]: https://www.mat.unical.it/informatica/FirstDegreeCourse
 [unicam]: https://didattica.unicam.it/Guide/PaginaCorso.do;?corso_id=10028
 [unicas]: https://www.unicas.it/ingegneria-informatica-telecomunicazioni
-
+[unict_inginf]: http://www.dieei.unict.it/it/corsi/l-8-inf/presentazione-del-corso
+[unict_inf]: http://web.dmi.unict.it/corsi/l-31/presentazione-del-corso
+[unicz]: https://unicz.esse3.cineca.it/Guide/PaginaCorso.do;?corso_id=10141
+[unich]: https://cleii.unich.it/
