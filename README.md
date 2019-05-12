@@ -5,7 +5,7 @@
 
 ## Regolamento generale:
 
-L'idea di questo repository nasce dall'esigenza di avere un luogo dove raccogliere appunti dei tre anni di ingegneria, da cui anche altri studenti possano attingere. È tuttavia doveroso fare alcune precisazioni:
+L'idea di questo repository nasce dall'esigenza di avere un luogo dove raccogliere appunti dei tre anni di ingegneria Elettronica & Informatica con specialistica in Informatica, da cui anche altri studenti possano attingere. È tuttavia doveroso fare alcune precisazioni:
 
 * Il materiale contenuto in questo repository è da considerarsi figlio di appunti presi a lezione, pertanto passabile di errori e **assolutamente non revisionato**. Non vuole sostituire nessun libro, solo essere un riferimento e/o riassunto per i corsi della suddetta triennale
 
@@ -21,13 +21,19 @@ Per contribuire al materiale è possibile aprire una [PR](https://github.com/bea
 Dato tuttavia che in passato diverse idee di raccoglimento materiale didattico sono state ostracizzate da _alcuni_ professori, per evitare di fornire elementi a cui ci si possa attaccare per la chiusura del repository il materiale caricato deve rispettare delle semplici regole:
 <br>
 
-* Non deve essere materiale protetto da copyright (i.e. niente libri) nè materiale ufficiale (i.e. niente slides del corso specifico), sono invece ammesse piccole immagini esplicative estrapolate dai libri e poste all'interno degli appunti
+* Non deve essere materiale protetto da copyright (i.e. niente libri) nè materiale ufficiale (i.e. niente slides del corso specifico), sono invece ammesse piccole immagini esplicative estrapolate dai libri e poste all'interno degli appunti (non sono però ammessi _mosaici_ per aggirare questo limite).
 
-* Non devono presentare in alcun modo loghi o immagini di cui l'università detiene i diritti
+* Non devono presentare in alcun modo loghi o immagini (parziali o interi) di cui l'università detiene i diritti o soggetti a copyright
+---
 
+## Tipo di materiale accettato:
 
+Il materiale deve essere in (almeno) uno dei seguenti formati:
 
+* File .MD (probabilmente il migliore per la visualizzazione direttamente da questa repository)
 
+* File .PDF, .DOCX, .DOC, .ODT
 
+* File .JPG, .PNG, .BMP
 
-
+Si consiglia inoltre di rinominare i file rispettando la seguente nomenclatura: `siglia-corso_argomento_nome-account` (per esempio: `IMADA_schedaRiassuntivaFormule_gallorob.pdf`).
