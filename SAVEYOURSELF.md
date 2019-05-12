@@ -8,7 +8,9 @@
 | Università degli Studi di BOLOGNA          | https://www.unibo.it/  | [Ingegneria informatica][unibo_inginf]                            | [Informatica][unibo_inf]
 | Università degli Studi di BRESCIA          | https://www.unibs.it/  | [Ingegneria informatica][unibs]                                   | /  
 | Università degli Studi di CAGLIARI         | https://www.unica.it/unica/  | [Ingegneria Elettrica, Elettronica e Informatica][unica_inginf]                                   | [Informatica][unica_inf]  
-
+| Università della CALABRIA                  | https://www.unical.it/portale/  | [Ingegneria informatica][unical_inginf]                  | [Informatica][unical_inf]
+| Università degli Studi di CAMERINO         | https://www.unicam.it/ | /                                                                 | [Informatica][unicam]          
+| Università degli Studi di CASSINO e del LAZIO MERIDIONALE | https://www.unicas.it/ | [Ingegneria Informatica e delle Telecomunicazioni][unicas] | /
 
 
 
@@ -22,4 +24,8 @@
 [unibs]: https://www.unibs.it/ugov/degree/4684
 [unica_inginf]: http://corsi.unica.it/ingegneriaelettricaeelettronica/didattica/corsi/
 [unica_inf]: http://corsi.unica.it/informatica/didattica/laurea-triennale-in-informatica/
+[unical_inginf]: https://www.dimes.unical.it/content/ingegneria-informatica
+[unical_inf]: https://www.mat.unical.it/informatica/FirstDegreeCourse
+[unicam]: https://didattica.unicam.it/Guide/PaginaCorso.do;?corso_id=10028
+[unicas]: https://www.unicas.it/ingegneria-informatica-telecomunicazioni
 
