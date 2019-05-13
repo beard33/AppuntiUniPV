@@ -24,16 +24,57 @@ Dato tuttavia che in passato diverse idee di raccoglimento materiale didattico s
 * Non deve essere materiale protetto da copyright (i.e. niente libri) nè materiale ufficiale (i.e. niente slides del corso specifico), sono invece ammesse piccole immagini esplicative estrapolate dai libri e poste all'interno degli appunti (non sono però ammessi _mosaici_ per aggirare questo limite).
 
 * Non devono presentare in alcun modo loghi o immagini (parziali o interi) di cui l'università detiene i diritti o soggetti a copyright
+
 ---
 
 ## Tipo di materiale accettato:
 
 Il materiale deve essere in (almeno) uno dei seguenti formati:
 
-* File .MD (probabilmente il migliore per la visualizzazione direttamente da questa repository)
+* File .MD (probabilmente il migliore per la visualizzazione direttamente da questa repository), .TEX
 
 * File .PDF, .DOCX, .DOC, .ODT
 
 * File .JPG, .PNG, .BMP
 
 Si consiglia inoltre di rinominare i file rispettando la seguente nomenclatura: `siglia-corso_argomento_nome-account` (per esempio: `IMADA_schedaRiassuntivaFormule_gallorob.pdf`).
+
+---
+
+## Download e Upload di materiale:
+
+### Download
+
+Per scaricare il materiale basta scaricare la repository (`download as .zip`).
+
+Se si pensa di poter contribuire alla repository si consiglia di clonare la repository in locale (da linea di comando: `git clone https://github.com/beard33/AppuntiUniPV.git`).
+
+### Upload
+
+Per caricare materiale è necessario fare una [PR](https://help.github.com/en/articles/about-pull-requests):
+
+* Da browser (avendo forkato la repository):
+
+  * Carica i file che vuoi caricare (tenendo a mente il [regolamento per il materiale](https://github.com/beard33/AppuntiUniPV/#Regolamento-per-il-materiale))
+  
+  * Crea la PR
+  
+  * Inserisci un Titolo e una Descrizione appropriata
+  
+  * Invia la PR (_e attendi con pazienza @beard33_)
+
+* Avendo clonato la repository:
+
+  * Aggiungi i file che vuoi caricare (tenendo a mente il [regolamento per il materiale](https://github.com/beard33/AppuntiUniPV/#Regolamento-per-il-materiale))
+
+  * Crea una nuova branch con `git checkout -b nome-della-branch`
+  
+  * Carica la nuova branch con `git push origin nome-della-branch`
+  
+  * Vai sulla tua repository (con un browser)
+  
+  * Crea la PR
+  
+  * Inserisci un Titolo e una Descrizione appropriata
+  
+  * Invia la PR (_e attendi con pazienza @beard33_)
