@@ -35,7 +35,9 @@
 | Università degli Studi di PALERMO          | https://www.unipa.it/  | [Ingegneria informatica][unipa_inginf]                            | [Informatica][unipa_inf]
 | Università degli Studi di PARMA            | https://www.unipr.it/  | [Ingegneria informatica, elettronica e delle telecomunicazioni][unipr_inginf] | [Informatica][unipr_inf] 
 | Università degli Studi di PERUGIA          | https://www.unipg.it/  | [Ingegneria informatica ed elettronica][unipg_inginf]             | [Informatica][unipg_inf]
-
+| Università degli Studi del PIEMONTE ORIENTALE "Amedeo Avogadro" | https://www.uniupo.it/ | /                                            | [Informatica][uniupo]
+| Università di PISA                         | https://www.unipi.it/  | [Ingegneria informatica][unipi_inginf]                            | [Informatica][unipi_inf]
+| Università Politecnica delle MARCHE        | https://www.univpm.it/ | [Ingegneria Informatica e dell'Automazione][univpm]               | /
 
 [uniba]: https://www.uniba.it/ricerca/dipartimenti/informatica/didattica/corsi-di-laurea/informatica-270/laurea-triennale-in-informatica-d.m.-270-1
 [poliba]: https://poliba.esse3.cineca.it/Guide/PaginaCorso.do?corso_id=10002
@@ -84,5 +86,8 @@
 [unipr_inf]: https://cdl-info.unipr.it/it
 [unipg_inginf]: https://www.unipg.it/didattica/offerta-formativa/offerta-formativa-2018-19?idcorso=196&annoregolamento=2018
 [unipg_inf]: https://www.unipg.it/didattica/offerta-formativa/offerta-formativa-2018-19?idcorso=226&annoregolamento=2018
-
-
+[uniupo]: https://www.disit.uniupo.it/tutto-studenti/offerta-formativa/lauree-triennali/informatica
+[unipi_inginf]: https://computer.ing.unipi.it/inginf-l
+[unipi_inf]: https://www.di.unipi.it/it/didattica/inf-l
+<!-- //TODO why am I doing this ? -->
+[univpm]: 404
