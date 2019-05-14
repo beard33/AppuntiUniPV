@@ -31,7 +31,7 @@ Dato tuttavia che in passato diverse idee di raccoglimento materiale didattico s
 
 Il materiale deve essere in (almeno) uno dei seguenti formati:
 
-* File .MD (probabilmente il migliore per la visualizzazione direttamente da questa repository), .TEX
+* File .MD (probabilmente il migliore per la visualizzazione direttamente da questo repository), .TEX
 
 * File .PDF, .DOCX, .DOC, .ODT
 
@@ -45,15 +45,15 @@ Si consiglia inoltre di rinominare i file rispettando la seguente nomenclatura: 
 
 ### Download
 
-Per scaricare il materiale basta scaricare la repository (`download as .zip`).
+Per scaricare il materiale basta scaricare il repository (`download as .zip`).
 
-Se si pensa di poter contribuire alla repository si consiglia di clonare la repository in locale (da linea di comando: `git clone https://github.com/beard33/AppuntiUniPV.git`).
+Se si pensa di poter contribuire al repository si consiglia di clonare il repository in locale (da linea di comando: `git clone https://github.com/beard33/AppuntiUniPV.git`).
 
 ### Upload
 
 Per caricare materiale è necessario fare una [PR](https://help.github.com/en/articles/about-pull-requests):
 
-* Da browser (avendo forkato la repository):
+* Da browser (avendo forkato il repository):
 
   * Carica i file che vuoi caricare (tenendo a mente il [regolamento per il materiale](https://github.com/beard33/AppuntiUniPV/#Regolamento-per-il-materiale))
   
@@ -63,7 +63,7 @@ Per caricare materiale è necessario fare una [PR](https://help.github.com/en/ar
   
   * Invia la PR (_e attendi con pazienza @beard33_)
 
-* Avendo clonato la repository:
+* Avendo clonato il repository:
 
   * Aggiungi i file che vuoi caricare (tenendo a mente il [regolamento per il materiale](https://github.com/beard33/AppuntiUniPV/#Regolamento-per-il-materiale))
 
@@ -71,7 +71,7 @@ Per caricare materiale è necessario fare una [PR](https://help.github.com/en/ar
   
   * Carica la nuova branch con `git push origin nome-della-branch`
   
-  * Vai sulla tua repository (con un browser)
+  * Vai sul tuo repository (con un browser)
   
   * Crea la PR
   
