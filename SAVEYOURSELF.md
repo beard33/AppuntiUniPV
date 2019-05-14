@@ -18,6 +18,10 @@
 | Università degli Studi di FIRENZE          | https://www.unifi.it/  | [Ingegneria informatica][unifi_inginf]                            | [Informatica][unifi_inf]
 | Università degli Studi di FOGGIA           | https://www.unifg.it/  | /                                                                 | / 
 | Università degli Studi di GENOVA           | https://unige.it/      | [Ingegneria informatica][unige_inginf]                            | [Informatica][unige_inf]
+| Università degli Studi INSUBRIA Varese-Como| https://www.uninsubria.it/ | /                                                             | [Informatica][uninsubria]
+| Università degli Studi dell'AQUILA         | http://www.univaq.it/  | [Ingegneria dell'informazione][univaq_inginf]                     | [Informatica][univaq_inf]
+| Università degli Studi di MACERATA         | https://www.unimc.it   | /                                                                 | /
+| Università degli Studi di MESSINA          | https://www.unime.it/  | [Ingegneria elettronica e informatica][unime_inginf]              | [Informatica][unime_inf]
 
 [uniba]: https://www.uniba.it/ricerca/dipartimenti/informatica/didattica/corsi-di-laurea/informatica-270/laurea-triennale-in-informatica-d.m.-270-1
 [poliba]: https://poliba.esse3.cineca.it/Guide/PaginaCorso.do?corso_id=10002
@@ -41,4 +45,8 @@
 [unifi_inf]: https://www.informatica.unifi.it/ls-3-corso-di-studio.html
 [unige_inginf]: https://corsi.unige.it/8719
 [unige_inf]: https://corsi.unige.it/8759
-
+[uninsubria]: https://www.uninsubria.it/offertaformativa/informatica
+[univaq_inginf]: https://www.disim.univaq.it/didattica/content.php?laurea=10&pid=549&did=0
+[univaq_inf]: https://www.disim.univaq.it/didattica/content.php?lid=it&pid=549&laurea=1&did=0
+[unime_inginf]: https://www.unime.it/it/cds/ingegneria-elettronica-e-informatica
+[unime_inf]: https://www.unime.it/it/cds/informatica
