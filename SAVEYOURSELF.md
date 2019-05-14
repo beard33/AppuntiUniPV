@@ -7,14 +7,17 @@
 | Università degli Studi di BERGAMO          | https://www.unibg.it/  | [Ingegneria informatica][unibg]                                   | /  
 | Università degli Studi di BOLOGNA          | https://www.unibo.it/  | [Ingegneria informatica][unibo_inginf]                            | [Informatica][unibo_inf]
 | Università degli Studi di BRESCIA          | https://www.unibs.it/  | [Ingegneria informatica][unibs]                                   | /  
-| Università degli Studi di CAGLIARI         | https://www.unica.it/unica/  | [Ingegneria Elettrica, Elettronica e Informatica][unica_inginf]                                   | [Informatica][unica_inf]  
+| Università degli Studi di CAGLIARI         | https://www.unica.it/unica/  | [Ingegneria Elettrica, Elettronica e Informatica][unica_inginf] | [Informatica][unica_inf]  
 | Università della CALABRIA                  | https://www.unical.it/portale/  | [Ingegneria informatica][unical_inginf]                  | [Informatica][unical_inf]
 | Università degli Studi di CAMERINO         | https://www.unicam.it/ | /                                                                 | [Informatica][unicam]          
 | Università degli Studi di CASSINO e del LAZIO MERIDIONALE | https://www.unicas.it/ | [Ingegneria Informatica e delle Telecomunicazioni][unicas] | /
 | Università degli Studi di CATANIA          | https://www.unict.it/  | [Ingegneria informatica][unict_inginf]                            | [Informatica][unict_inf]
 | Università degli Studi "Magna Graecia" di CATANZARO | https://web.unicz.it/it/ | [Ingegneria Informatica e Biomedica][unicz]            | /               
 | Università degli Studi "G. d'Annunzio" CHIETI-PESCARA | https://www.unich.it/ | /                                                       | [Economia e Informatica per l'Impresa][unich]
-
+| Università degli Studi di FERRARA          | http://www.unife.it/   | [Ingegneria elettronica e informatica][unife_inginf]              | [Informatica][unife_inf]
+| Università degli Studi di FIRENZE          | https://www.unifi.it/  | [Ingegneria informatica][unifi_inginf]                            | [Informatica][unifi_inf]
+| Università degli Studi di FOGGIA           | https://www.unifg.it/  | /                                                                 | / 
+| Università degli Studi di GENOVA           | https://unige.it/      | [Ingegneria informatica][unige_inginf]                            | [Informatica][unige_inf]
 
 [uniba]: https://www.uniba.it/ricerca/dipartimenti/informatica/didattica/corsi-di-laurea/informatica-270/laurea-triennale-in-informatica-d.m.-270-1
 [poliba]: https://poliba.esse3.cineca.it/Guide/PaginaCorso.do?corso_id=10002
@@ -32,3 +35,10 @@
 [unict_inf]: http://web.dmi.unict.it/corsi/l-31/presentazione-del-corso
 [unicz]: https://unicz.esse3.cineca.it/Guide/PaginaCorso.do;?corso_id=10141
 [unich]: https://cleii.unich.it/
+[unife_inginf]: http://www.unife.it/ing/informazione
+[unife_inf]: http://www.unife.it/scienze/informatica
+[unifi_inginf]: https://www.ing-inl.unifi.it/ls-3-corso-di-studio.html
+[unifi_inf]: https://www.informatica.unifi.it/ls-3-corso-di-studio.html
+[unige_inginf]: https://corsi.unige.it/8719
+[unige_inf]: https://corsi.unige.it/8759
+
