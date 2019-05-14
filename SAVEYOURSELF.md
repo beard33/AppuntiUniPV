@@ -38,6 +38,16 @@
 | Università degli Studi del PIEMONTE ORIENTALE "Amedeo Avogadro" | https://www.uniupo.it/ | /                                            | [Informatica][uniupo]
 | Università di PISA                         | https://www.unipi.it/  | [Ingegneria informatica][unipi_inginf]                            | [Informatica][unipi_inf]
 | Università Politecnica delle MARCHE        | https://www.univpm.it/ | [Ingegneria Informatica e dell'Automazione][univpm]               | /
+| Università degli Studi "Mediterranea" di REGGIO CALABRIA | https://www.unirc.it/ | [Ingegneria dell'Informazione][unirc]                | /
+| Università degli Studi di ROMA "Foro Italico" | http://www.uniroma4.it/ | /                                                             | /
+| Università degli Studi di ROMA "La Sapienza"  | https://www.uniroma1.it/ | [Ingegneria Informatica e Automatica][uniroma1_inginf]       | [Informatica][uniroma1_inf]
+| Università degli Studi di ROMA "Tor Vergata"  | https://web.uniroma2.it/ | [Ingegneria informatica][uniroma2_inginf]                    | [Informatica][uniroma2_inf]
+| Università degli Studi ROMA TRE            | http://www.uniroma3.it/ | [Ingegneria informatica][uniroma3]                               | /
+| Università del SALENTO                     | https://www.unisalento.it/ | [Ingegneria dell'Informazione][unisalento]                    | /
+| Università degli Studi di SALERNO          | https://www.unisa.it/  | [Ingegneria Informatica][unisa_inginf]                            | [Informatica][unisa_inf]
+
+
+
 
 [uniba]: https://www.uniba.it/ricerca/dipartimenti/informatica/didattica/corsi-di-laurea/informatica-270/laurea-triennale-in-informatica-d.m.-270-1
 [poliba]: https://poliba.esse3.cineca.it/Guide/PaginaCorso.do?corso_id=10002
@@ -93,3 +103,13 @@
 [unipi_inf]: https://www.di.unipi.it/it/didattica/inf-l
 <!-- //TODO why am I doing this ? -->
 [univpm]: 404
+[unirc]: https://www.unirc.it/didattica/corsi_laurea.php?uid=582b8ea5-67f5-427a-aedb-1f091252b892
+[uniroma1_inginf]: https://corsidilaurea.uniroma1.it/it/corso/2018/29931/home
+[uniroma1_inf]: https://corsidilaurea.uniroma1.it/it/corso/2018/29923/home
+[uniroma2_inginf]: http://inginformatica.uniroma2.it/index.php/laurea_triennale
+[uniroma2_inf]: http://www.informatica.uniroma2.it/
+[uniroma3]: http://www.uniroma3.it/corsi/dipartimento-di-ingegneria/l/2018-2019/ingegneria-informatica-0580706200800002/
+[unisalento]: https://www.unisalento.it/didattica/cosa-studiare/corsi-di-laurea/-/dettaglio/corso/LB08/ingegneria-dell-informazione
+[unisa_inginf]: https://corsi.unisa.it/ingegneria-informatica/presentazione
+[unisa_inf]: https://corsi.unisa.it/informatica/presentazione
+
