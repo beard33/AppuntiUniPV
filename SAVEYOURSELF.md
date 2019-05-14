@@ -25,6 +25,8 @@
 | Università degli Studi di MILANO           | http://www.unimi.it/   | /                                                                 | [Informatica][unimi]
 | Università degli Studi di MILANO-BICOCCA   | https://www.unimib.it/ | /                                                                 | [Informatica][unimib]
 | Politecnico di MILANO                      | https://www.polimi.it/ | Ingegneria informatica [1][polimi1] [2][polimi2]                  | /
+| Università degli Studi di MODENA e REGGIO EMILIA | https://www.unimore.it/ | Ingegneria Informatica [1][unimore_inginf1] [2][unimore_inginf2] | [Informatica][unimore_inf]
+| Università degli Studi del MOLISE          | https://www.unimol.it/ | /                                                                 | [Informatica][unimol]
 
 [uniba]: https://www.uniba.it/ricerca/dipartimenti/informatica/didattica/corsi-di-laurea/informatica-270/laurea-triennale-in-informatica-d.m.-270-1
 [poliba]: https://poliba.esse3.cineca.it/Guide/PaginaCorso.do?corso_id=10002
@@ -57,4 +59,7 @@
 [unimib]: https://www.unimib.it/ugov/degree/4375
 [polimi1]: https://www.polimi.it/?id=6500&anno=2018&campus=&scuola=&corso=360
 [polimi2]: https://www.polimi.it/?id=6500&anno=2018&campus=&scuola=&corso=358
-
+[unimore_inginf1]: http://www.ingmo.unimore.it/site/home/didattica/lauree/ingegneria-informatica.html
+[unimore_inginf2]: http://www.ingmo.unimore.it/site/home/didattica/lauree/ingegneria-informatica-sede-di-mantova.html
+[unimore_inf]: http://www.fim.unimore.it/site/home/didattica/corsi-di-studio-in-informatica/laurea-triennale.html
+[unimol]: https://dipbioter.unimol.it/didattica/corsi-di-laurea-triennali/informatica/
