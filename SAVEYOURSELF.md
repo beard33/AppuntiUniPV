@@ -27,6 +27,9 @@
 | Politecnico di MILANO                      | https://www.polimi.it/ | Ingegneria informatica [1][polimi1] [2][polimi2]                  | /
 | Università degli Studi di MODENA e REGGIO EMILIA | https://www.unimore.it/ | Ingegneria Informatica [1][unimore_inginf1] [2][unimore_inginf2] | [Informatica][unimore_inf]
 | Università degli Studi del MOLISE          | https://www.unimol.it/ | /                                                                 | [Informatica][unimol]
+| Università degli Studi di Napoli Federico II | https://www.unina.it | [Ingegneria Informatica][unina_inginf]                            | [Informatica][unina_inf]
+| Università degli Studi della Campania "Luigi Vanvitelli" | https://www.unicampania.it/ | [Ingegneria Elettronica e Informatica][unicampania] | /
+
 
 [uniba]: https://www.uniba.it/ricerca/dipartimenti/informatica/didattica/corsi-di-laurea/informatica-270/laurea-triennale-in-informatica-d.m.-270-1
 [poliba]: https://poliba.esse3.cineca.it/Guide/PaginaCorso.do?corso_id=10002
@@ -63,3 +66,7 @@
 [unimore_inginf2]: http://www.ingmo.unimore.it/site/home/didattica/lauree/ingegneria-informatica-sede-di-mantova.html
 [unimore_inf]: http://www.fim.unimore.it/site/home/didattica/corsi-di-studio-in-informatica/laurea-triennale.html
 [unimol]: https://dipbioter.unimol.it/didattica/corsi-di-laurea-triennali/informatica/
+[unina_inginf]: http://www.ingegneria-informatica.unina.it/
+[unina_inf]: http://informatica.dieti.unina.it/
+[unicampania]: http://www.ingegneria.unicampania.it/didattica/corsi-di-studio/ingegneria-elettronica-e-informatica
+
