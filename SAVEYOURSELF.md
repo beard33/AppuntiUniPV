@@ -29,6 +29,12 @@
 | Università degli Studi del MOLISE          | https://www.unimol.it/ | /                                                                 | [Informatica][unimol]
 | Università degli Studi di Napoli Federico II | https://www.unina.it | [Ingegneria Informatica][unina_inginf]                            | [Informatica][unina_inf]
 | Università degli Studi della Campania "Luigi Vanvitelli" | https://www.unicampania.it/ | [Ingegneria Elettronica e Informatica][unicampania] | /
+| Università degli Studi di NAPOLI "Parthenope"| https://www.uniparthenope.it/ | [Ingegneria Informatica, Biomedica e delle Telecomunicazioni][uniparthenope_inginf] | [Informatica][uniparthenope_inf]
+| Università degli Studi di NAPOLI "L'Orientale" | http://www.unior.it/ | /                                                               | /
+| Università degli Studi di PADOVA           | https://www.unipd.it/  | [Ingegneria informatica][unipd]                                   | / 
+| Università degli Studi di PALERMO          | https://www.unipa.it/  | [Ingegneria informatica][unipa_inginf]                            | [Informatica][unipa_inf]
+| Università degli Studi di PARMA            | https://www.unipr.it/  | [Ingegneria informatica, elettronica e delle telecomunicazioni][unipr_inginf] | [Informatica][unipr_inf] 
+| Università degli Studi di PERUGIA          | https://www.unipg.it/  | [Ingegneria informatica ed elettronica][unipg_inginf]             | [Informatica][unipg_inf]
 
 
 [uniba]: https://www.uniba.it/ricerca/dipartimenti/informatica/didattica/corsi-di-laurea/informatica-270/laurea-triennale-in-informatica-d.m.-270-1
@@ -69,4 +75,14 @@
 [unina_inginf]: http://www.ingegneria-informatica.unina.it/
 [unina_inf]: http://informatica.dieti.unina.it/
 [unicampania]: http://www.ingegneria.unicampania.it/didattica/corsi-di-studio/ingegneria-elettronica-e-informatica
+[uniparthenope_inginf]: https://www.uniparthenope.it/ugov/degree/1561
+[uniparthenope_inf]: https://www.uniparthenope.it/ugov/degree/1569
+[unipd]: https://didattica.unipd.it/off/2019/lt/in/in0508
+[unipa_inginf]: http://www.unipa.it/dipartimenti/ingegneria/cds/ingegneriainformatica2178
+[unipa_inf]: https://www.unipa.it/dipartimenti/matematicaeinformatica/cds/informatica2086
+[unipr_inginf]: https://cdl-iiet.unipr.it/it
+[unipr_inf]: https://cdl-info.unipr.it/it
+[unipg_inginf]: https://www.unipg.it/didattica/offerta-formativa/offerta-formativa-2018-19?idcorso=196&annoregolamento=2018
+[unipg_inf]: https://www.unipg.it/didattica/offerta-formativa/offerta-formativa-2018-19?idcorso=226&annoregolamento=2018
+
 
