@@ -14,7 +14,7 @@
 | Università degli Studi di CATANIA          | https://www.unict.it/  | [Ingegneria informatica][unict_inginf]                            | [Informatica][unict_inf]
 | Università degli Studi "Magna Graecia" di CATANZARO | https://web.unicz.it/it/ | [Ingegneria Informatica e Biomedica][unicz]            | /               
 | Università degli Studi "G. d'Annunzio" CHIETI-PESCARA | https://www.unich.it/ | /                                                       | [Economia e Informatica per l'Impresa][unich]
-| Università degli Studi di FERRARA          | http://www.unife.it/   | [Ingegneria elettronica e informatica][unife_inginf]              | [Informatica][unife_inf]
+| Università degli Studi di FERRARA          | https://www.unife.it/   | [Ingegneria elettronica e informatica][unife_inginf]              | [Informatica][unife_inf]
 | Università degli Studi di FIRENZE          | https://www.unifi.it/  | [Ingegneria informatica][unifi_inginf]                            | [Informatica][unifi_inf]
 | Università degli Studi di FOGGIA           | https://www.unifg.it/  | /                                                                 | / 
 | Università degli Studi di GENOVA           | https://unige.it/      | [Ingegneria informatica][unige_inginf]                            | [Informatica][unige_inf]
