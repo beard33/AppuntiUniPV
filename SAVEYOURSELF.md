@@ -48,6 +48,12 @@
 | Università degli Studi del SANNIO di BENEVENTO | https://www.unisannio.it | [Ingegneria Informatica][unisannio]                         | /
 | Università degli Studi di SASSARI          | https://www.uniss.it/  | [Ingegneria Informatica][uniss]                                   | /
 | Università degli Studi di SIENA            | https://www.unisi.it/  | [Ingegneria Informatica e dell’Informazione][unisi]               | /
+| Università degli Studi di TERAMO           | https://www.unite.it/  | /                                                                 | / 
+| Università degli Studi di TORINO           | https://www.unito.it/  | /                                                                 | [Informatica][unito]
+| Politecnico di TORINO                      | https://www.polito.it/ | [Ingegneria informatica][polito]                                  | /
+
+          
+       
 
 [uniba]: https://www.uniba.it/ricerca/dipartimenti/informatica/didattica/corsi-di-laurea/informatica-270/laurea-triennale-in-informatica-d.m.-270-1
 [poliba]: https://poliba.esse3.cineca.it/Guide/PaginaCorso.do?corso_id=10002
@@ -115,4 +121,8 @@
 [unisannio]: https://www.ding.unisannio.it/offdidattica/corsi-di-laurea/ingegneria-informatica-863
 [uniss]: https://www.uniss.it/ugov/degree/6178
 [unisi]: https://www.unisi.it/ugov/degree/13756
+[unito]: https://www.unito.it/ugov/degree/32231
+[polito]: https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa.corsi?p_sdu_cds=37:3
+
+
 
