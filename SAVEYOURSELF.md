@@ -51,8 +51,10 @@
 | Università degli Studi di TERAMO           | https://www.unite.it/  | /                                                                 | / 
 | Università degli Studi di TORINO           | https://www.unito.it/  | /                                                                 | [Informatica][unito]
 | Politecnico di TORINO                      | https://www.polito.it/ | [Ingegneria informatica][polito]                                  | /
-
-          
+| Università degli Studi di TRENTO           | https://www.unitn.it/  | [Ingegneria Informatica, delle Comunicazioni ed Elettronica][unitn_inginf] | [Informatica][unitn_inf]
+| Università degli Studi di TRIESTE          | https://www.units.it/  | [Ingegneria Elettronica e Informatica][units]                     | /
+| Università degli Studi della TUSCIA        | https://www.unitus.it/ | /                                                                 | /
+| Università degli Studi di UDINE            | https://www.uniud.it/  | /                                                                 | Informatica [1][uniud1] [2][uniud2]
        
 
 [uniba]: https://www.uniba.it/ricerca/dipartimenti/informatica/didattica/corsi-di-laurea/informatica-270/laurea-triennale-in-informatica-d.m.-270-1
@@ -123,6 +125,10 @@
 [unisi]: https://www.unisi.it/ugov/degree/13756
 [unito]: https://www.unito.it/ugov/degree/32231
 [polito]: https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa.corsi?p_sdu_cds=37:3
-
+[unitn_inginf]: https://offertaformativa.unitn.it/it/l/ice-ingegneria-informatica-comunicazioni-elettronica/il-corso
+[unitn_inf]: https://offertaformativa.unitn.it/it/l/informatica/il-corso
+[units]: https://corsi.units.it/in05/descrizione-corso
+[uniud1]: https://uniud.esse3.cineca.it/Guide/PaginaCorso.do;?corso_id=10540&ANNO_ACCADEMICO=2018
+[uniud2]: https://uniud.esse3.cineca.it/Guide/PaginaCorso.do;?corso_id=128&ANNO_ACCADEMICO=2018
 
 
