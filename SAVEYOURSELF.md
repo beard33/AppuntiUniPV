@@ -45,9 +45,9 @@
 | Università degli Studi ROMA TRE            | http://www.uniroma3.it/ | [Ingegneria informatica][uniroma3]                               | /
 | Università del SALENTO                     | https://www.unisalento.it/ | [Ingegneria dell'Informazione][unisalento]                    | /
 | Università degli Studi di SALERNO          | https://www.unisa.it/  | [Ingegneria Informatica][unisa_inginf]                            | [Informatica][unisa_inf]
-
-
-
+| Università degli Studi del SANNIO di BENEVENTO | https://www.unisannio.it | [Ingegneria Informatica][unisannio]                         | /
+| Università degli Studi di SASSARI          | https://www.uniss.it/  | [Ingegneria Informatica][uniss]                                   | /
+| Università degli Studi di SIENA            | https://www.unisi.it/  | [Ingegneria Informatica e dell’Informazione][unisi]               | /
 
 [uniba]: https://www.uniba.it/ricerca/dipartimenti/informatica/didattica/corsi-di-laurea/informatica-270/laurea-triennale-in-informatica-d.m.-270-1
 [poliba]: https://poliba.esse3.cineca.it/Guide/PaginaCorso.do?corso_id=10002
@@ -112,4 +112,7 @@
 [unisalento]: https://www.unisalento.it/didattica/cosa-studiare/corsi-di-laurea/-/dettaglio/corso/LB08/ingegneria-dell-informazione
 [unisa_inginf]: https://corsi.unisa.it/ingegneria-informatica/presentazione
 [unisa_inf]: https://corsi.unisa.it/informatica/presentazione
+[unisannio]: https://www.ding.unisannio.it/offdidattica/corsi-di-laurea/ingegneria-informatica-863
+[uniss]: https://www.uniss.it/ugov/degree/6178
+[unisi]: https://www.unisi.it/ugov/degree/13756
 
