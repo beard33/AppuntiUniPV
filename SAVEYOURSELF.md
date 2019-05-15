@@ -22,7 +22,7 @@
 | Università degli Studi dell'AQUILA         | http://www.univaq.it/  | [Ingegneria dell'informazione][univaq_inginf]                     | [Informatica][univaq_inf]
 | Università degli Studi di MACERATA         | https://www.unimc.it   | /                                                                 | /
 | Università degli Studi di MESSINA          | https://www.unime.it/  | [Ingegneria elettronica e informatica][unime_inginf]              | [Informatica][unime_inf]
-| Università degli Studi di MILANO           | http://www.unimi.it/   | /                                                                 | [Informatica][unimi]
+| Università degli Studi di MILANO           | https://www.unimi.it/   | /                                                                 | [Informatica][unimi]
 | Università degli Studi di MILANO-BICOCCA   | https://www.unimib.it/ | /                                                                 | [Informatica][unimib]
 | Politecnico di MILANO                      | https://www.polimi.it/ | Ingegneria informatica [1][polimi1] [2][polimi2]                  | /
 | Università degli Studi di MODENA e REGGIO EMILIA | https://www.unimore.it/ | Ingegneria Informatica [1][unimore_inginf1] [2][unimore_inginf2] | [Informatica][unimore_inf]
@@ -92,7 +92,7 @@
 [univaq_inf]: https://www.disim.univaq.it/didattica/content.php?lid=it&pid=549&laurea=1&did=0
 [unime_inginf]: https://www.unime.it/it/cds/ingegneria-elettronica-e-informatica
 [unime_inf]: https://www.unime.it/it/cds/informatica
-[unimi]: http://www.cosp.unimi.it/offerta_didattica/F1X.htm
+[unimi]: https://www.cosp.unimi.it/offerta_didattica/F1X.htm
 [unimib]: https://www.unimib.it/ugov/degree/4375
 [polimi1]: https://www.polimi.it/?id=6500&anno=2018&campus=&scuola=&corso=360
 [polimi2]: https://www.polimi.it/?id=6500&anno=2018&campus=&scuola=&corso=358
