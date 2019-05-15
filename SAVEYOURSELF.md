@@ -55,7 +55,13 @@
 | Università degli Studi di TRIESTE          | https://www.units.it/  | [Ingegneria Elettronica e Informatica][units]                     | /
 | Università degli Studi della TUSCIA        | https://www.unitus.it/ | /                                                                 | /
 | Università degli Studi di UDINE            | https://www.uniud.it/  | /                                                                 | Informatica [1][uniud1] [2][uniud2]
-       
+| Università degli Studi di Urbino Carlo Bo  | https://www.uniurb.it/ | /                                                                 | [Informatica][uniurb]
+| Università "Cà Foscari" VENEZIA            | https://www.unive.it/  | /                                                                 | [Informatica][unive]
+| Università IUAV di VENEZIA                 | http://www.iuav.it/homepage/ | /                                                           | / 
+| Università degli Studi di VERONA           | https://www.univr.it/it| /                                                                 | [Informatica][univr]
+
+
+
 
 [uniba]: https://www.uniba.it/ricerca/dipartimenti/informatica/didattica/corsi-di-laurea/informatica-270/laurea-triennale-in-informatica-d.m.-270-1
 [poliba]: https://poliba.esse3.cineca.it/Guide/PaginaCorso.do?corso_id=10002
@@ -130,5 +136,7 @@
 [units]: https://corsi.units.it/in05/descrizione-corso
 [uniud1]: https://uniud.esse3.cineca.it/Guide/PaginaCorso.do;?corso_id=10540&ANNO_ACCADEMICO=2018
 [uniud2]: https://uniud.esse3.cineca.it/Guide/PaginaCorso.do;?corso_id=128&ANNO_ACCADEMICO=2018
-
+[uniurb]: https://www.uniurb.it/corsi/1755335
+[unive]: https://www.unive.it/pag/3/
+[univr]: https://www.univr.it/it/corsi-di-studio/2019-2020/scienze-e-ingegneria/corsi-di-laurea/laurea-in-informatica
 
